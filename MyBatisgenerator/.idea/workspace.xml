@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c96c9ff-0f9b-4ef9-b9a8-97ce4e790cc7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MY_SPRING_BOOT_1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MY_SPRING_BOOT_1/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MY_SPRING_BOOT_1/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MY_SPRING_BOOT_1/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MY_SPRING_BOOT_1/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MY_SPRING_BOOT_1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MY_SPRING_BOOT_1/src/main/java/com/amadusesa/demo/DemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MY_SPRING_BOOT_1/src/main/java/com/amadusesa/demo/ServletInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MY_SPRING_BOOT_1/src/main/java/com/amadusesa/test/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MY_SPRING_BOOT_1/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MY_SPRING_BOOT_1/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MY_SPRING_BOOT_1/src/test/java/com/amadusesa/demo/DemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTSTest/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTSTest/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTSTest/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTSTest/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTSTest/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTSTest/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTSTest/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTSTest/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTSTest/TTSTest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTSTest/classes/SpeechBot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTSTest/classes/me/PhoneBook$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTSTest/classes/me/PhoneBook$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTSTest/classes/me/PhoneBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTSTest/classes/tests/AllTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTSTest/classes/tests/LetterToSoundTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTSTest/classes/tests/LexiconTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTSTest/classes/tests/PartOfSpeechTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTSTest/classes/tests/SegmenterTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTSTest/classes/tests/TestUtteranceProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTSTest/classes/tests/UnitDatabaseTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTSTest/classes/tests/UtteranceTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTSTest/libs/cmu_time_awb.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTSTest/libs/cmu_us_kal.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTSTest/libs/cmudict04.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTSTest/libs/cmulex.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTSTest/libs/cmutimelex.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTSTest/libs/en_us.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTSTest/libs/freetts.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTSTest/libs/jsapi.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTSTest/libs/junit.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTSTest/libs/pircbot.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTSTest/src/SpeechBot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTSTest/src/me/PhoneBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTSTest/src/tests/AllTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTSTest/src/tests/LetterToSoundTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTSTest/src/tests/LexiconTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTSTest/src/tests/PartOfSpeechTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTSTest/src/tests/SegmenterTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTSTest/src/tests/UnitDatabaseTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTSTest/src/tests/UtteranceTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTS_Example/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTS_Example/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTS_Example/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTS_Example/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTS_Example/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTS_Example/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTS_Example/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTS_Example/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTS_Example/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTS_Example/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTS_Example/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTS_Example/Java_TTS_Example.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTS_Example/ReadMe.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTS_Example/bin/com/sinovoice/example/sys/AccountInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTS_Example/bin/com/sinovoice/example/sys/HciCloudSysHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTS_Example/bin/com/sinovoice/example/tts/HciCloudTtsHelper$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTS_Example/bin/com/sinovoice/example/tts/HciCloudTtsHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTS_Example/bin/com/sinovoice/example/tts/HciCloudTtsMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTS_Example/libs/hcicloud-5.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTS_Example/libs/win_x64/hci_sys.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTS_Example/libs/win_x64/hci_sys_jni.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTS_Example/libs/win_x64/hci_tts.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTS_Example/libs/win_x64/hci_tts_cloud_synth.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTS_Example/libs/win_x64/hci_tts_jni.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTS_Example/libs/win_x64/jtopus.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTS_Example/libs/win_x64/jtspeex.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTS_Example/libs/win_x64/libhci_curl.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTS_Example/libs/win_x86/hci_sys.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTS_Example/libs/win_x86/hci_sys_jni.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTS_Example/libs/win_x86/hci_tts.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTS_Example/libs/win_x86/hci_tts_cloud_synth.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTS_Example/libs/win_x86/hci_tts_jni.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTS_Example/libs/win_x86/jtopus.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTS_Example/libs/win_x86/jtspeex.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTS_Example/libs/win_x86/libhci_curl.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTS_Example/src/com/sinovoice/example/sys/AccountInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTS_Example/src/com/sinovoice/example/sys/HciCloudSysHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTS_Example/src/com/sinovoice/example/tts/HciCloudTtsHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTS_Example/src/com/sinovoice/example/tts/HciCloudTtsMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTS_Example/testdata/AccountInfo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTS_Example/testdata/S3ML_sing.txt.enc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TTS_Example/testdata/tts.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tts Project/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tts Project/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tts Project/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tts Project/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tts Project/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tts Project/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tts Project/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tts Project/Tts Project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tts Project/src/LookForSounds.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Tts Project/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_11_test/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_11_test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_11_test/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_11_test/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_11_test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_11_test/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_11_test/java_11_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_11_test/out/production/java_11_test/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_11_test/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_socket_test_jdk11/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_socket_test_jdk11/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_socket_test_jdk11/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_socket_test_jdk11/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_socket_test_jdk11/java_socket_test_jdk11.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_socket_test_jdk11/out/production/java_socket_test_jdk11/com/AmaduseSA/test/TestSocket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_socket_test_jdk11/src/com/AmaduseSA/test/TestSocket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../websocket/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../websocket/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../websocket/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../websocket/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../websocket/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../websocket/src/main/java/com/amaduse/SA/control/WebSocketTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../websocket/websocket.iml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/apache-maven-3.5.4-bin/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.5.4-bin\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MyBatisgenerator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyBatisgenerator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyBatisgenerator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyBatisgenerator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyBatisgenerator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyBatisgenerator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545808719230" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\xin.zheng\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c96c9ff-0f9b-4ef9-b9a8-97ce4e790cc7" name="Default Changelist" comment="" />
+      <created>1545808562298</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545808562298</updated>
+      <workItem from="1545808566885" duration="143000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="143000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
